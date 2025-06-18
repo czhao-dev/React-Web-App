@@ -15,7 +15,7 @@ Paradise Nursery allows users to:
 
 ## Website
 
-Visit the live app here: [https://czhao-dev.github.io/e-plantShopping/](https://czhao-dev.github.io/e-plantShopping/)
+Visit the live app here: [https://czhao-dev.github.io/React-Web-App/](https://czhao-dev.github.io/React-Web-App/)
 
 ## Features Breakdown
 
